@@ -26,6 +26,10 @@ img {
     width: 100%;
 }
 
+.img-box {
+  max-height: 250px;
+}
+
 .bg-orange{
     background-color: #FFAD6F;
 }
@@ -56,6 +60,8 @@ a.sm-link{
 
 .sm-link__label{
   display: block;
+  color: #FFAD8F;
+
 }
 
 /* sm-link_padding-bottom */ 
