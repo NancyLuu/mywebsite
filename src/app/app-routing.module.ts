@@ -4,23 +4,35 @@ import { ResumeComponent } from './resume/resume.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { AboutComponent } from './about/about.component';
 
+
 const routes: Routes = [
   {
-    path: '', component: AboutComponent, pathMatch: 'full'
+    path: '', 
+    component: AboutComponent, 
+    pathMatch: 'full'
   },
   {
-    path: 'about', component: AboutComponent
+    path: '', 
+    component: AboutComponent,
+    outlet: 'about-content'
   },
   {
-    path: 'portfolio', component: PortfolioComponent
+    path: '', 
+    component: PortfolioComponent,
+    outlet: 'portfolio-content'
   },
   {
-    path: 'resume', component: ResumeComponent
+    path: '', 
+    component: ResumeComponent,
+    outlet: 'resume-content'
   }
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [
+    RouterModule.forRoot(routes),
+    
+  ],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
