@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "情境式程式除錯教學對大學生自我效能與學習成效之影響",
+    "tag": "paper",
+    "tag_ch": "碩士論文",
+    "tag_color": "bg-orange",
+    "time": "July 2020",
+    "text": "本研究旨在透過情境式程式除錯範例， 引導學生理解並解決程式中的錯誤，藉 此了解情境式程式除錯教學對於大學一 年級學生的程式除錯自我效能與程式學 習成效之影響。本研究自編情境式程式 除錯教材，引導受試者進行情境式程式 除錯課程。",
+    "img": null,
+    "linkName": "論文連結",
+    "link": "https://hdl.handle.net/11296/nwp6n2"
+  },
+  {
+    "id": 2,
+    "title": "凱比星際初體驗-女媧創造幼幼程式編輯課程",
+    "tag": "teaching",
+    "tag_ch": "教材開發",
+    "tag_color": "bg-gray",
+    "time": "July 2020",
+    "text": "本教材以STEAM作為教育核心，融合了科 學、技術、工程、藝術、數學等相關領域， 根據美國 CSTA、教育部幼保大 綱《幼兒 園教保活動課程大綱》六大領域的教學課 程。透過實體卡片、程式設計，啟蒙學生 的運算思維與邏輯思考能力，同時培養學 生團隊合作、解決複雜問題等。",
+    "img": "nuwa.png",
+    "linkName": null,
+    "link": null
+  },
+  {
+    "id": 3,
+    "title": "澎湖島嶼生活記憶",
+    "tag": "website",
+    "tag_ch": "網頁設計",
+    "tag_color": "bg-yellow",
+    "time": "開發中",
+    "text": "澎湖島嶼生活記憶涵蓋了澎湖民間知識， 如：地方誌數位化、廟宇分佈、節慶傳 統飲食等，透過此平台搜集電子文檔， 進行民間知識的保存。",
+    "img": "phmemory.png",
+    "linkName": "Demo",
+    "link": "http://61.219.110.117/"
+  },
+  {
+    "id": 4,
+    "title": "政大Pepper 機器人黑客松創意競賽 - 老有所衷 - 佳作",
+    "tag": "project",
+    "tag_ch": "專題比賽",
+    "tag_color": "bg-green",
+    "time": "開發中",
+    "text": "以Pepper機器人為展現載體，提供有年長 者之家庭居家，以及相關機構裡的資訊傳 遞與照護服務，善用Pepper機器人本體功 能與外部感應 、 雲端服務系統 ， 以 RaaS(Robot as a Service)核心思維，提 供「以長者為中心」之全方位服務。",
+    "img": "pepper.jpg",
+    "linkName": null,
+    "link": null
+  },
+  {
+    "id": 5,
+    "title": "結合物聯網與人工智慧之居家環境暨控制系統之研究",
+    "tag": "project",
+    "tag_ch": "專題比賽",
+    "tag_color": "bg-green",
+    "time": "Jan 2018",
+    "text": "一套自動化居家安全環境監控系統，此系 統中運用樹莓派(Raspberry Pi)做控制器 來驅動各種周邊裝置進行監測，並將周邊 設備蒐集的資料傳送到後端做處理，若偵 測到居家環境有異常的狀態，系統會自動 發出警訊通知使用者，讓使用者能即時的 處理危機。",
+    "img": null,
+    "linkName": null,
+    "link": null
+  },
+  {
+    "id": 6,
+    "title": "臺灣少年駭客人才培育營-LOGO設計",
+    "tag": "design",
+    "tag_ch": "平面設計",
+    "tag_color": "bg-bule",
+    "time": "2017",
+    "text": "以現代青年喜愛的漁夫帽作為「少年」的 代表。2017年的圖樣為：由藍色電路串連起的駭 客技術，將其傳達給少年世代，將駭客技 能發揚光大。",
+    "img": "thitcampLOGO_2017.png",
+    "linkName": "THITCAMP粉絲專頁",
+    "link": "https://www.facebook.com/THITCAMP"
+  },
+  {
+    "id": 7,
+    "title": "臺灣少年駭客人才培育營-LOGO設計",
+    "tag": "design",
+    "tag_ch": "平面設計",
+    "tag_color": "bg-bule",
+    "time": "2017",
+    "text": "以現代青年喜愛的漁夫帽作為「少年」的代表。 2016年的圖樣為：在綠色的數據海 中印出的少年身影，代表著想從資料中發 現漏洞的好奇心。",
+    "img": "thitcampLOGO_2016.png",
+    "linkName": "2016官方網站",
+    "link": "https://sites.google.com/site/thitcamp2016/"
+  },
+  {
+    "id": 8,
+    "title": "適性化學習導引於數學解題歷程以提升學生運算思維能力之研究—24GAME輔助學習系統",
+    "tag": "website",
+    "tag_ch": "網頁設計",
+    "tag_color": "bg-yellow",
+    "time": "2016",
+    "text": "本系統的特色在於能夠記錄學習者的計 算行為，給予適當難易度的題目，以克 服學習者的計算盲區，提升邏輯思考。 透過電腦輔助教學與自動給題，改善過 去教育制度中無法針對學生特質給予教 學內容的困境。",
+    "img": "24Game.png",
+    "linkName": "24 Game",
+    "link": "http://120.108.111.134:8080/24game/"
+  }
+]

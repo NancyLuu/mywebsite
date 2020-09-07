@@ -8,13 +8,15 @@ import { ResumeComponent } from './resume/resume.component';
 import { AboutComponent } from './about/about.component';
 import { FontAwesomeModule, FaIconLibrary } from '@fortawesome/angular-fontawesome';
 import { fab } from '@fortawesome/free-brands-svg-icons';
+import { PortfolioPipe } from './portfolio/portfolio.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     PortfolioComponent,
     ResumeComponent,
-    AboutComponent
+    AboutComponent,
+    PortfolioPipe,
   ],
   imports: [
     BrowserModule,

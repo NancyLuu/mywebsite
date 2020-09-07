@@ -25,6 +25,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-regular-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@types/jquery": "^3.5.1",
     "a11y": "^0.5.1",
     "angular": "^1.8.0",
     "angular-bootstrap-md": "^9.4.0",
@@ -33,6 +34,7 @@
     "jquery": "^3.5.1",
     "ng-uikit-pro-standard": "^1.0.0",
     "ngx-facebook": "^3.0.0-0",
+    "p": "^0.2.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
